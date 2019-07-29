@@ -66,7 +66,7 @@ From here we will create a new API with the following parameters.
     </thead><tbody>
     <tr>
       <td>balance</td>
-      <td>{$.api_Balance.accountBalance}</td>
+      <td>{$.api_Balance.accountBalance}</td> %%NOT POSSIBLE TO UNDERSTAND WHY THIS VALUE%%
     </tr>
     </tbody>
   </table>
